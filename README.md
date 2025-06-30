@@ -25,6 +25,7 @@ Penelitian ini menggunakan tiga sumber data utama:
 3.  **Pembangunan Model Machine Learning:** Model Random Forest Classifier digunakan untuk mengklasifikasikan masa tunggu kerja lulusan. 
 
 ## Struktur Proyek
+```
 VISUALISASI_DATA/
 ├── data/
 │   ├── combined_tracer_study.csv
@@ -34,6 +35,7 @@ VISUALISASI_DATA/
 ├── app.py
 ├── README.md
 └── requirements.txt
+```
 
 ## Cara Menjalankan Aplikasi
 1.  **Pastikan Anda memiliki Python 3.8+ terinstal.**
