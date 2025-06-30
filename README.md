@@ -27,11 +27,11 @@ Penelitian ini menggunakan tiga sumber data utama:
 ## Struktur Proyek
 ```
 VISUALISASI_DATA/
-├── data/
-│   ├── combined_tracer_study.csv
-│   ├── jobs_crawling_cleaned.csv
-│   ├── merged_data_cleaned.csv
-│   └── Pddikti_Combined.xlsx
+├── notebooks/
+│   ├── Data_Preprocessing_Jobstreet.ipynb
+│   ├── Data_Preprocessing_PDDikti.ipynb
+│   ├── Data_Preprocessing_Tracer_Study.ipynb
+│   └── Visualisasi_Data.ipynb
 ├── app.py
 ├── README.md
 └── requirements.txt
